@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #F7F8F8;
+}
+
+#searchBox{
+    width: 300px;
+    height: 55px;
+    border-color: black;
+    
+}
+
+#searchBox2{
+    width: 700px;
+    height: 55px;
+    margin-left: 15px;
+    border-color: black;
+
+}
+
+#searchButton{
+    /* position: absolute; */
+    /* margin-left: 713px; */
+    height: 55px;
+   
+}
+
+#login{
+    font-weight:bolder;
+    font-size: 20px;
+    padding-left: 15px;
+    color: #002F34;
+}
+
+#button{
+    background-color:#F7F8F8 !important ;
+}
